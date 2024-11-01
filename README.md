@@ -1,12 +1,8 @@
 # CSCI4221
 hello, my name is demario jackson
+ 
 
-this is the second *paragraph *
+# Group 1 Work Description
 
-# Section 2
+My responsibility is to be over the mentall wellness section of the app. Making a tab where students could go and be directed to someone that they could talk to about any issues or problems that they are having. Someone like a counselor.
 
-TBA. I dont have anything yet
-
-# About me 
-
-My name is Demario Jackson and I'm currently looking for an internship in the Computer Science field.
